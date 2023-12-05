@@ -7,7 +7,7 @@ Aplicação escrita em python que realiza web scraping para assistir e baixar an
 # Conteúdo
 
 - [Instalação](#Instalação)
-- [O que pode fazer?](#O-que-pode-fazer?)
+- [O que pode fazer?](#O-que-pode-fazer)
 - [Importante](#Importante)
 - [Config](#Config)
 - [Uso](#Uso)
@@ -30,7 +30,7 @@ Caso deseje utilizar outro player seu diretório precisa ser especificado na pas
 
 É possível instalar o [ffmpeg](https://ffmpeg.org/download.html) para baixar playlists no lugar do download interno.
 
-# O que pode fazer?
+# O que pode fazer
 
 - Mais rápido do que assistir no navegador.
 - Toca animes em seu player local
